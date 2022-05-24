@@ -1,0 +1,1 @@
+## Basic Singleton. This is NOT thread safe. Multiple threads can create a different object at the same time
